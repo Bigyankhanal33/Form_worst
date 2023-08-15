@@ -1,0 +1,4 @@
+Slider:https://blog.hubspot.com/website/html-slider
+Getting random age for while clicking the circle:https://www.reddit.com/r/javascript/comments/94mvur/generating_a_random_number_on_button_click/
+Reference for the input types :https://piyushiso.github.io/random/worstuxever/
+Position changing of Submit button:https://www.quora.com/How-do-I-change-the-submit-button-text-with-CSS
